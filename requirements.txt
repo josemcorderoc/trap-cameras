@@ -1,0 +1,4 @@
+Gooey==1.0.8.1
+numpy==1.21.4
+tensorflow==2.8.0
+#tensorflow_macos==2.8.0
